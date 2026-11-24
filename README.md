@@ -1,4 +1,4 @@
- Password Generator and SHA-256 Hasher
+# Password Generator and SHA-256 Hasher
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
